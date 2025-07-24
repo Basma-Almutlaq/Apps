@@ -1,0 +1,15 @@
+/Users/basmaalmutlaq/Desktop/Auth/Auth/ApiClientConsoleApp/bin/Debug/net7.0/ApiClientConsoleApp
+/Users/basmaalmutlaq/Desktop/Auth/Auth/ApiClientConsoleApp/bin/Debug/net7.0/ApiClientConsoleApp.deps.json
+/Users/basmaalmutlaq/Desktop/Auth/Auth/ApiClientConsoleApp/bin/Debug/net7.0/ApiClientConsoleApp.runtimeconfig.json
+/Users/basmaalmutlaq/Desktop/Auth/Auth/ApiClientConsoleApp/bin/Debug/net7.0/ApiClientConsoleApp.dll
+/Users/basmaalmutlaq/Desktop/Auth/Auth/ApiClientConsoleApp/bin/Debug/net7.0/ApiClientConsoleApp.pdb
+/Users/basmaalmutlaq/Desktop/Auth/Auth/ApiClientConsoleApp/obj/Debug/net7.0/ApiClientConsoleApp.csproj.AssemblyReference.cache
+/Users/basmaalmutlaq/Desktop/Auth/Auth/ApiClientConsoleApp/obj/Debug/net7.0/ApiClientConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/basmaalmutlaq/Desktop/Auth/Auth/ApiClientConsoleApp/obj/Debug/net7.0/ApiClientConsoleApp.AssemblyInfoInputs.cache
+/Users/basmaalmutlaq/Desktop/Auth/Auth/ApiClientConsoleApp/obj/Debug/net7.0/ApiClientConsoleApp.AssemblyInfo.cs
+/Users/basmaalmutlaq/Desktop/Auth/Auth/ApiClientConsoleApp/obj/Debug/net7.0/ApiClientConsoleApp.csproj.CoreCompileInputs.cache
+/Users/basmaalmutlaq/Desktop/Auth/Auth/ApiClientConsoleApp/obj/Debug/net7.0/ApiClientConsoleApp.dll
+/Users/basmaalmutlaq/Desktop/Auth/Auth/ApiClientConsoleApp/obj/Debug/net7.0/refint/ApiClientConsoleApp.dll
+/Users/basmaalmutlaq/Desktop/Auth/Auth/ApiClientConsoleApp/obj/Debug/net7.0/ApiClientConsoleApp.pdb
+/Users/basmaalmutlaq/Desktop/Auth/Auth/ApiClientConsoleApp/obj/Debug/net7.0/ApiClientConsoleApp.genruntimeconfig.cache
+/Users/basmaalmutlaq/Desktop/Auth/Auth/ApiClientConsoleApp/obj/Debug/net7.0/ref/ApiClientConsoleApp.dll
